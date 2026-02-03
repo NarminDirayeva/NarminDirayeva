@@ -1,6 +1,6 @@
 [![MasterHead](https://www.cybher.org/wp-content/uploads/2023/08/top-programming-languages-980x500.jpg)
 <h1 align="center">Hi 👋, I'm Nərmin Dirayeva</h1>
-<h3 align="center">A passionate backend student from Azerbaijan</h3>
+<h3 align="center">A passionate AI&ML student from Azerbaijan</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
